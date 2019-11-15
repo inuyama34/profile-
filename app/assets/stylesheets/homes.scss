@@ -1,0 +1,74 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+header h1{
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
+    letter-spacing:11px;
+    background-color: #222222;
+    color: white;
+}
+
+ul {
+  list-style: none;
+  font-family: cursive;
+  font-size :20px;
+}
+
+.main{
+    font-size:30px;
+    text-align: center;
+    font-family: serif ;
+}
+.ruby{
+    height: 150px;
+    margin-top:40px;
+
+}
+.html{
+    height: 150px;
+
+}
+.css{
+    height: 180px;
+    
+}
+.rails{
+    height: 160px;
+}
+
+.main{
+
+    text-align: center;
+    font-family: serif ;
+}
+.main2{
+    text-align:center;
+}
+.git{
+    height: 150px;
+    margin-right: 50px;
+    
+}
+.mysql{
+    height: 150px;
+    margin-right: 60px;
+}
+.main3{
+    font-size:20px;
+    text-align: center;
+    font-family: serif ;   
+
+}
+.twitter{
+    margin-left: 50px;
+}
+.bottom{
+    font-size: 20px;
+    float: right;
+    font-family: serif;
+    letter-spacing:4px;
+    opacity: 0.7;
+    margin-right: 40px;
+}
